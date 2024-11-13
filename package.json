@@ -1,0 +1,17 @@
+{
+  "name": "lorem_ipsum_generator",
+  "version": "1.0.0",
+  "description": "a lorem ipsum generator that generates random sentences in English; made with html, css, and javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "lorem-ipsum": "^2.0.8",
+    "sensible-lorem": "^1.0.3"
+  }
+}
